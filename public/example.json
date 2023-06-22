@@ -1,0 +1,107 @@
+[
+  
+      {
+      "class_name": "Vinyasa Flow Yoga",
+        "class_image": "https://i.ibb.co/N30gHFS/img1-2.jpg",
+        "instructor_name": "John Doe",
+        "instructor_email": "john@example.com",
+        "available_seats": 20,
+        "price": 10,
+        "enrolled":12,
+        "status": "pending"
+      },
+      {
+      "class_name": "Ashtanga Yoga",
+        "class_image": "https://i.ibb.co/cDxY6Z5/img6.jpg",
+        "instructor_name": "Jane Smith",
+        "instructor_email": "smith@example.com",
+        "available_seats": 15,
+        "price": 12,
+        "enrolled":2,
+        "status": "pending"
+      },
+      {
+       "class_name": "Hatha Yoga",
+        "class_image": "https://i.ibb.co/K6SN6Bc/img4.jpg",
+        "instructor_name": "John Doe",
+        "instructor_email": "john@example.com",
+        "available_seats": 25,
+        "price": 8,
+        "enrolled":10,
+        "status": "pending"
+      },
+      {
+      "class_name": "Bikram Yoga",
+        "class_image": "https://i.ibb.co/N30gHFS/img1-2.jpg",
+        "instructor_name": "Sarah Johnson",
+        "instructor_email": "sarah@example.com",
+        "available_seats": 18,
+        "price": 9,
+        "enrolled":9,
+        "status": "pending"
+      },
+      {
+       "class_name": "Yin Yoga",
+        "class_image": "https://i.ibb.co/5KNfWsJ/img2-2.jpg",
+        "instructor_name": "Michael Brown",
+        "instructor_email": "michael@example.com",
+        "available_seats": 22,
+        "price": 15,
+        "enrolled":15,
+        "status": "pending"
+      },
+      {
+       "class_name": "Restorative Yoga",
+        "class_image": "https://i.ibb.co/YQYRkqN/img3-2.jpg",
+        "instructor_name": "Emily Davis",
+        "instructor_email": "davis@example.com",
+        "available_seats": 20,
+        "price": 10,
+        "enrolled":0,
+        "status": "pending"
+      },
+      {
+        "class_name": "Yin Yoga ashan",
+         "class_image": "https://i.ibb.co/K6SN6Bc/img4.jpg",
+         "instructor_name": "Michael Brown",
+         "instructor_email": "michael@example.com",
+         "available_seats": 25,
+         "price": 15,
+         "enrolled":0,
+         "status": "pending"
+       },
+       {
+        "class_name": "Restorative Yoga ashan",
+         "class_image": "https://i.ibb.co/K6SN6Bc/img4.jpg",
+         "instructor_name": "Emily Davis",
+         "instructor_email": "davis@example.com",
+         "available_seats": 22,
+         "price": 10,
+         "enrolled":0,
+         "status": "pending"
+       },
+       {
+        "class_name": "Yin meditation",
+         "class_image": "https://i.ibb.co/0nNSd67/img5.jpg",
+         "instructor_name": "Michael Brown",
+         "instructor_email": "michael@example.com",
+         "available_seats": 12,
+         "price": 15,
+         "enrolled":5,
+         "status": "pending"
+       },
+       {
+        "class_name": "Restorative meditation",
+         "class_image": "https://i.ibb.co/cDxY6Z5/img6.jpg",
+         "instructor_name": "Emily Davis",
+         "instructor_email": "davis@example.com",
+         "available_seats": 12,
+         "price": 10,
+         "enrolled":2,
+         "status": "pending"
+       }
+    
+  
+]
+  
+

@@ -1,0 +1,43 @@
+
+
+.slider-item {
+  position: relative;
+}
+.slider-item img{
+  height: 700px;
+}
+
+
+.slider-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.slider-content h2 {
+font-weight: 800;
+  color: white;
+  font-size: 50px;
+}
+
+.slider-content p {
+  font-size: 1.5rem;
+color: white;
+}
+
+/* Media queries for mobile devices */
+@media (max-width: 767px) {
+  .slider-item img{
+    height: 500px;
+  }
+  .slider-content h2 {
+    font-weight: 400;
+    font-size: 1.5rem;
+  }
+
+  .slider-content p {
+    font-size: 1rem;
+  }
+}
